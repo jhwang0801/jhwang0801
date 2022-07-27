@@ -2,6 +2,8 @@
 
 <p align="left">
 <a href="https://velog.io/@jhwang"><img src="https://img.shields.io/badge/-Tech_Blog-A78DD2?style=flat&logo=Velog&logoColor=white"/></a>
+<a href="https://jhwang0801.notion.site/aaa991aa3f9049d7ac88f9bb935677fb"><img src="https://img.shields.io/badge/-Notion_Resume-2D1357?style=flat&logo=Notion&logoColor=white"/></a>
+
 </p>
 
 ### Tech Stack
